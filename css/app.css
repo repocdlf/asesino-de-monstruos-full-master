@@ -2,7 +2,7 @@
     text-align: center;
 }
 
-.curarthbar {
+.healthbar {
     width: 80%;
     height: 40px;
     background-color: #eee;
@@ -45,7 +45,7 @@
 
 .log ul .monster-turno {
     color: #eee;
-    background-color:rgb(3, 110, 12);
+    background-color:rgb(0, 81, 128);
 }
 
 button {
@@ -64,34 +64,34 @@ button {
     background-color: #76ff7e;
 }
 
-#atacar {
+#attack {
     background-color: #ff7367;
 }
 
-#atacar:hover {
+#attack:hover {
     background-color: #ff3f43;
 }
 
-#ataque-especial {
+#special-attack {
     background-color: #ffaf4f;
 }
 
-#ataque-especial:hover {
+#special-attack:hover {
     background-color: #ff9a2b;
 }
 
-#curar {
+#heal {
     background-color: #aaffb0;
 }
 
-#curar:hover {
+#heal:hover {
     background-color: #76ff7e;
 }
 
-#rendirse {
+#give-up {
     background-color: #ffffff;
 }
 
-#rendirse:hover {
+#give-up:hover {
     background-color: #c7c7c7;
 }
